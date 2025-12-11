@@ -1,25 +1,57 @@
-<h1 align="center">Hi 👋, I'm JAshwinDev</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Ashwin</span> (aka <b>JAshwinDev</b>)</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jashwin&label=Profile%20views&color=0e75b6&style=flat" alt="jashwin" /> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jashwin" alt="jashwin" /></a> </p>
+<h3 align="center">⚡ Frontend Developer | Java Developer | React Fanboy | AI Explorer | India 🇮🇳</h3>
 
-- 🌱 I’m currently learning **Gen AI**
+---
 
-- 📫 How to reach me **ashwindevashir@gmail.com**
+## 🚀 About Me  
+I'm a frontend developer who loves building clean UI and exploring the spicy world of **Gen AI**.  
+Breaking things, fixing them at 3 AM, and acting like it was an intended feature.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FsWQQwzhgGFBTPENUQl-jQ6XsxJEU_ua/view?usp=drivesdk](https://drive.google.com/file/d/1FsWQQwzhgGFBTPENUQl-jQ6XsxJEU_ua/view?usp=drivesdk)
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🧠 Currently Exploring  
+- ⚙️ **Generative AI**  
+- ⚛️ **Advanced React + Next.js**  
+- 💬 AI chatbots (Hugging Face + Streamlit)  
+- ☁️ Cloud and scalable systems  
+
+---
+
+## 📬 Reach Me  
+📧 **ashwindevashir@gmail.com**  
+🔗 **Portfolio / Resume:**  
+[View Resume](https://drive.google.com/file/d/1FsWQQwzhgGFBTPENUQl-jQ6XsxJEU_ua/view?usp=drivesdk)
+
+---
+
+## 🌐 Connect With Me  
 <p align="left">
-<a href="https://linkedin.com/in/j-ashwin-devashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="j-ashwin-devashir" height="30" width="40" /></a>
-<a href="https://instagram.com/jashwiin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jashwiin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/j-ashwin-devashir" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
+<a href="https://instagram.com/jashwiin" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jashwin&show_icons=true&locale=en&layout=compact" alt="jashwin" /></p>
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,java,python,nodejs,git,mongodb" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jashwin&show_icons=true&locale=en" alt="jashwin" /></p>
+---
+
+## 💡 Fun Dev Vibes  
+> “Sometimes I write code so clean even *I* get shocked.  
+Other times I wonder who wrote this garbage…  
+Turns out it was also me.”
+
+---
+
+## 🎉 Thanks for Stopping By!  
+<div align="center">
+  <img src="https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif" width="300">
+</div>
